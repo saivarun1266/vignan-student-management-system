@@ -1,0 +1,15 @@
+# Java build files
+**/target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Local environment secrets
+.env
+**/application-local.properties
+**/application-local.properties
